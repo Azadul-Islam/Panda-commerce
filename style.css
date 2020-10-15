@@ -1,5 +1,5 @@
 .container {
-    margin-top: 100px;
+    margin-bottom: 100px;
   }
   .orange-background {
       
@@ -13,11 +13,51 @@
 
     color: #FF136F;
 }
-.buy-now-buttom {
+.buy-now-bottom {
    background-color: #FF136F;
    color:#fff;
    border: none;
    border-radius:8px ;
    padding: 9px 25px;
    cursor: pointer;
+}
+
+.fatema, .sabbir, .nuri{
+  padding: 10px 30px;
+  border-radius: 10px;
+}
+.fatema{
+  background-color: orange;
+  padding: ;
+}
+.sabbir{
+  background-color: orchid;
+}
+.nuri{
+  background-color: blue;
+}
+.categories h1{
+  color: white
+}
+.categories img{
+  width: 100px;
+}
+.card{
+  border: none;
+  box-shadow: 5px 5px 10px lightgray;
+  border-radius: 10px;
+}
+.card-footer{
+  background-color: white;
+  border-top: none;
+}
+#Subscribe{
+  height: 300px;
+}
+#Subscribe h6{
+  color: gray;
+}
+footer{
+  text-align: center;
+
 }
